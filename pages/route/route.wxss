@@ -1,0 +1,11 @@
+/* pages/route/route.wxss */
+.swiper-type{
+  height: 550rpx;
+}
+image{
+  height: 80%;
+  width: 100%;
+}
+view{
+  flex: content;
+}

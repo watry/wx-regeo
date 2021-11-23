@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/poi/poi",
+    "pages/markers/markers",
+    "pages/regeo/regeo",
+    "pages/marker/index",
+    "pages/inde/index",
+    "pages/route/route",
+    "pages/inputtips/input"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "景点推荐",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "景点推荐",
+        "iconPath": "icon/推荐1.png",
+        "selectedIconPath": "icon/推荐2.png"
+      },
+      {
+        "pagePath": "pages/regeo/regeo",
+        "text": "位置",
+        "iconPath": "icon/位置.png",
+        "selectedIconPath": "icon/_位置.png"
+      },
+      {
+        "pagePath": "pages/inde/index",
+        "text": "周边搜索",
+        "iconPath": "icon/_搜索  (2).png",
+        "selectedIconPath": "icon/_搜索  (1).png"
+      }
+      
+    ],
+    "color": "#999999",
+    "selectedColor": "#000fff",
+    "backgroundColor": "#ffffff"
+  },
+  "networkTimeout": {
+    "request": 6000
+  },
+  "sitemapLocation": "sitemap.json"
+}

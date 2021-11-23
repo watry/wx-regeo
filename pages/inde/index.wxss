@@ -1,0 +1,17 @@
+.naviButton{
+  border: 2px solid blue;
+  margin: 26px;
+  padding: 6px 0;
+  text-align: center;
+  width: 740rpx;
+}
+.container{
+  color: red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute; 
+}

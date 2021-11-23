@@ -1,0 +1,6 @@
+<swiper class="swiper-type" autoplay interval="1500" circular indicator-dots>
+<swiper-item><image src="https://p1.ssl.qhimgs1.com/sdr/400__/t01d4cc113f62dfb7cb.jpg"></image><view>牌坊门</view></swiper-item>
+<swiper-item><image src="https://p1.ssl.qhimgs1.com/sdr/400__/t0188208754f62bf92b.jpg"></image>老斋舍<view></view></swiper-item>
+<swiper-item><image src="http://5b0988e595225.cdn.sohucs.com/images/20190813/78cc1c067567410ca847c44005856f6c.jpeg"></image>老图书馆<view></view></swiper-item>
+<swiper-item><image src="http://attach.bbs.miui.com/forum/201702/02/072445k3japjkom8j3pl5l.jpg"></image><view>樱花大道</view></swiper-item>
+</swiper>
